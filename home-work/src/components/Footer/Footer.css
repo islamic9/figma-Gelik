@@ -1,0 +1,75 @@
+.footer-wrapper{
+    background: #1E2833;
+}
+
+.footer-top{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    height: 304px;
+    padding: 62px 50px 0 50px;
+}
+
+.logo-desc{
+    padding-top: 22px;
+    max-width: 232px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    letter-spacing: -0.204545px;
+    color: #FFFFFF;
+}
+
+.logos-title{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 25px;
+    letter-spacing: -0.231818px;
+    color: #FFFFFF;
+    font-family: sans-serif;
+    padding-bottom: 17px;
+}
+
+.logo-item{
+    max-width: 220px;
+    padding-bottom: 10px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    letter-spacing: -0.204545px;
+    color: #FFFFFF;
+}
+
+.footer-bottom{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px 50px;
+
+}
+
+.privacy{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    letter-spacing: -0.204545px;
+    color: #FFFFFF;
+}
+
+.footer-left{
+    display: flex;
+    gap: 42px;
+}
+
+.footer-right{
+    display: flex;
+    gap: 40px;
+}

@@ -1,0 +1,26 @@
+
+.logo-wrapper{
+    background: #0C1218;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo-title{
+    max-width: 480px;
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 100px 0 37px 0;
+}
+
+.logo-inner{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 58px;
+}

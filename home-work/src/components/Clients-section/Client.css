@@ -1,0 +1,75 @@
+.client-wrapper {
+    background: #0C1218;
+    padding-top: 132px;
+    padding: 0 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img{
+    object-fit:  contain;
+}
+
+.client-title {
+    padding-top: 132px;
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    color: #FFFFFF;
+    max-width: 356px;
+    padding-bottom: 45px;
+}
+
+.client-inner {
+    display: flex;
+}
+
+.about-ali {
+    max-width: 841px;
+    display: flex;
+    border: 2px solid rgb(41,96,152);
+    padding: 31px 0 0 60px;
+    margin: 0 20px 0 17px;
+    background: linear-gradient(120deg, #062D53 0.1%, transparent);
+    height: 234px;
+}
+
+.ali-img {
+    display: block;
+}
+
+.ali-text {
+    max-width: 529px;
+    padding-bottom: 22px;
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+
+.ali-name {
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+    padding-right: 20px;
+}
+
+.ali-company {
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #6A7D8E;
+}

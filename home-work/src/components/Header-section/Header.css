@@ -1,0 +1,87 @@
+.orderAndPhone{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.myOrder, .phone{
+    padding: 10px 50px 11px;
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.nav{
+    background: #333333 50%;
+    min-height: 97px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 50px;
+}
+
+.itemWrapper{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+.item{
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+
+.item:hover{
+    cursor: pointer;
+    color: rgb(155, 155, 155);
+    transform: scale(1.08);
+}
+
+.itemService{
+    display: flex;
+    align-items: center;
+    gap: 22px;
+}
+
+.nav-button__wrapper{
+    background: #9CA2B0;
+    display: flex;
+    align-items: center;
+    width: 206px;
+    border-radius: 50px;
+    
+}
+
+.nav-button, .market{
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+
+.language{
+    color: white;
+}
+
+.nav-button{
+    padding: 11px 27px 11px 26px;
+    border-radius: 50px;
+    border: none;
+    background: #39546C;
+    margin-left: 2px;
+}
+
+.market{
+    color: black;
+    padding: 13px 31px 13px 20px;
+    border-radius: 50px;
+}

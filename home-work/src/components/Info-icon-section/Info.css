@@ -1,0 +1,43 @@
+.info-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 85px;
+    padding-top: 134px;
+    background: #0C1218;
+}
+
+.info-card{
+    min-height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 234px;
+}
+
+.info-card img{
+    width: 64px;
+    height: 64px;
+}
+
+.info-title{
+    padding-top: 20px;
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.info-text{
+    padding-top: 13px;
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #C2C2C2;
+}
